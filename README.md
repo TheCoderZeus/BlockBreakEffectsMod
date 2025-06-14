@@ -38,15 +38,3 @@ cd BlockBreakEffects
 ```
 
 *OBS: Tenha o gradle instalado no seu PC!*
-
-# Estrutura do projeto!
-src/main/java/com/splinter/blockbreakeffects/
-├── BlockBreakEffectsMod.java
-├── client/
-│   ├── ClientEvents.java
-│   ├── ClientProxy.java
-│   └── ParticleHandler.java
-├── common/
-│   └── BlockBreakHandler.java
-└── util/
-    └── CooldownManager.java
