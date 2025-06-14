@@ -1,0 +1,10 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="blockbreakeffects"
+version="1.0.0"
+displayName="Block Break Effects"
+description="Adiciona animações e partículas personalizadas ao quebrar blocos."
+authors="TheCoderZeus"
